@@ -1,0 +1,380 @@
+{
+  "date": "2026-11-07",
+  "files": [
+    {
+      "path": ".vsconfig",
+      "size": 96,
+      "sha256": "f24445f4481f74f7653a375e2f618e50d608b14fdacee794fcab51b8d447351c"
+    },
+    {
+      "path": "Assembly-CSharp-Editor.csproj",
+      "size": 101101,
+      "sha256": "cadd0017d9823c66067d31f247258e80db4b93a31c1a03cb3a8d0f02b46f9fe7"
+    },
+    {
+      "path": "Assembly-CSharp.csproj",
+      "size": 96456,
+      "sha256": "0933e0fc18ff6a4086483351865757c8659d850ebe18adb2015b9215e17f3196"
+    },
+    {
+      "path": "My project.slnx",
+      "size": 125,
+      "sha256": "9893ccd55a72201c1dc024ca613d837577205570ea963b5ca0e0edeb5eb9458f"
+    },
+    {
+      "path": "Assets/Editor.meta",
+      "size": 172,
+      "sha256": "011885d8e7399dd18d6e5dbd08912bc2e0ee35478fb0c715716295320a5a2b3f"
+    },
+    {
+      "path": "Assets/InputSystem_Actions.inputactions",
+      "size": 41005,
+      "sha256": "1c6cbb519d65ecfe19a29231735b7f54741a20ac1a8ad4f46a18e1bfb28a3c39"
+    },
+    {
+      "path": "Assets/InputSystem_Actions.inputactions.meta",
+      "size": 376,
+      "sha256": "3b4e424a80f5b4fa76b6abd774884a24285eaa61f22ff9bb20e5ad505fd8b569"
+    },
+    {
+      "path": "Assets/Readme.asset",
+      "size": 1450,
+      "sha256": "bf74ddf1e9228066dee720b59978848af81ef54b116ba2cf9915b06088b158a9"
+    },
+    {
+      "path": "Assets/Readme.asset.meta",
+      "size": 182,
+      "sha256": "46c6b89ac1d47bd0c0d1a8b141ae3e32cd95d3e74c49381f0d9f942488c254ce"
+    },
+    {
+      "path": "Assets/Scenes.meta",
+      "size": 172,
+      "sha256": "92598ef42aeaa7813a50e780bcee1ad6c832b257592d09ffb0e6fb6116bb703f"
+    },
+    {
+      "path": "Assets/Settings.meta",
+      "size": 172,
+      "sha256": "73c8e19843240273facb0af6bdbf430d719e397aded705629594060ce25ce7ad"
+    },
+    {
+      "path": "Assets/TutorialInfo.meta",
+      "size": 172,
+      "sha256": "07f022e5932c833d026e020b27d73452ebd781993b616d76003494af1e140946"
+    },
+    {
+      "path": "Assets/Editor/HubForceResolve.cs",
+      "size": 2310,
+      "sha256": "b76fc3b8ecced6ed2310ae609071ebfec22b1b3e0def3777b2671a11f5593a95"
+    },
+    {
+      "path": "Assets/Editor/HubForceResolve.cs.meta",
+      "size": 59,
+      "sha256": "67339783a57f6956fe64f5f5abba2f2d6f947b242e9791a5f20d61b249e20faf"
+    },
+    {
+      "path": "Assets/Scenes/SampleScene.unity",
+      "size": 11413,
+      "sha256": "07fce8b04804ddccb3026db5b43d8dc41ba138e49d50d36a5c24877081eacdca"
+    },
+    {
+      "path": "Assets/Scenes/SampleScene.unity.meta",
+      "size": 155,
+      "sha256": "b5815a6b12afaf810577bc89041c4ce46516c7cd6609693f8db616f8e5584d80"
+    },
+    {
+      "path": "Assets/Settings/DefaultVolumeProfile.asset",
+      "size": 24035,
+      "sha256": "463776c51ae49d4fef980e8fd268081b2f505610d79315003faae1acff8f4115"
+    },
+    {
+      "path": "Assets/Settings/DefaultVolumeProfile.asset.meta",
+      "size": 189,
+      "sha256": "efbcb026cee6b8e32fdf27018c06b0515296a6ccbb43969e792fea270310700a"
+    },
+    {
+      "path": "Assets/Settings/Mobile_Renderer.asset",
+      "size": 1713,
+      "sha256": "aa93274c9521fa941170becec9e87c5fa36b8587eefd5eeb5c0eed0d1d4b1dbe"
+    },
+    {
+      "path": "Assets/Settings/Mobile_Renderer.asset.meta",
+      "size": 189,
+      "sha256": "a148ee2b4987b05b8ff7ae5f9bf84916184f77aefddc821dceb551f5a69f8179"
+    },
+    {
+      "path": "Assets/Settings/Mobile_RPAsset.asset",
+      "size": 4709,
+      "sha256": "8d551911e1e411b063203e4ee970b4c1bcc209dc561aa7ecfe8824f85c2498f4"
+    },
+    {
+      "path": "Assets/Settings/Mobile_RPAsset.asset.meta",
+      "size": 189,
+      "sha256": "53ea46647712c615fd1a3f2e0dddfa8559eeedc649e9a1dbf93ff913de28544c"
+    },
+    {
+      "path": "Assets/Settings/PC_Renderer.asset",
+      "size": 3439,
+      "sha256": "3d0b01d8ded3327263b6690be128a3de58d17c514943ae42fe743a3e084a9c79"
+    },
+    {
+      "path": "Assets/Settings/PC_Renderer.asset.meta",
+      "size": 189,
+      "sha256": "b5df8ddb2708c6ed4c133a5ff9ee95a75cc20e4ee3ed6181366a61aedbaf31ec"
+    },
+    {
+      "path": "Assets/Settings/PC_RPAsset.asset",
+      "size": 4728,
+      "sha256": "92cc0975c4ebe398f323d43dc6f68690ae1ae019948bd6491e7542a20f740ace"
+    },
+    {
+      "path": "Assets/Settings/PC_RPAsset.asset.meta",
+      "size": 189,
+      "sha256": "bb469b9b6f318e9e9bed29c3b2e73e79371c04743c6f95dd6603941f1cd3e53e"
+    },
+    {
+      "path": "Assets/Settings/SampleSceneProfile.asset",
+      "size": 3703,
+      "sha256": "a8677d4bac051d24caa11cd622e39f968155ee277bfce132274f1de225692fe9"
+    },
+    {
+      "path": "Assets/Settings/SampleSceneProfile.asset.meta",
+      "size": 182,
+      "sha256": "2e23abc214069f0adbf2b2207f1db54be7876629ec2a3681d0f4aa5b61622ef0"
+    },
+    {
+      "path": "Assets/Settings/UniversalRenderPipelineGlobalSettings.asset",
+      "size": 29234,
+      "sha256": "f074f70005181226c7614cbfb06b064e692c1032763bef94ccf334d91d0056d0"
+    },
+    {
+      "path": "Assets/Settings/UniversalRenderPipelineGlobalSettings.asset.meta",
+      "size": 189,
+      "sha256": "f61661d8bc8dbe531daf09f6211ef978c7ba145c9207c8e76524396ae0722d7c"
+    },
+    {
+      "path": "Assets/TutorialInfo/Editor.meta",
+      "size": 193,
+      "sha256": "7036bdbc8af05799b5fd508484343b35c28a68b390198da4673d34357d7d667f"
+    },
+    {
+      "path": "Assets/TutorialInfo/Icons.meta",
+      "size": 193,
+      "sha256": "546e7d7af6b4d5e17d284c8f1188d05472e681911b8359905ee9b9e20769a106"
+    },
+    {
+      "path": "Assets/TutorialInfo/Readme.cs",
+      "size": 404,
+      "sha256": "bb2e692ebfab803e97f21693be8010d3c6a1a3dccf16f573935dc7438410cc2c"
+    },
+    {
+      "path": "Assets/TutorialInfo/Readme.cs.meta",
+      "size": 317,
+      "sha256": "80a3df9969fab6e656583ee9bbca884d0507e2b7de3417f6ea3118fba901cd60"
+    },
+    {
+      "path": "Assets/TutorialInfo/StyleSheets.meta",
+      "size": 193,
+      "sha256": "930d0c8276cea1559a3e315f8500ea6ca8b58d980eee3b44aaa1d461742c47e0"
+    },
+    {
+      "path": "Assets/TutorialInfo/Editor/ReadmeEditor.cs",
+      "size": 3734,
+      "sha256": "8852033138cc30c44615174738d1b9a0751cd957b05b79fe82fd9c0a392cee0d"
+    },
+    {
+      "path": "Assets/TutorialInfo/Editor/ReadmeEditor.cs.meta",
+      "size": 264,
+      "sha256": "f59080b424c16fa13edd105bf006fdbad98c11fce0c921043e63c8877f144cd9"
+    },
+    {
+      "path": "Assets/TutorialInfo/Icons/URP.png",
+      "size": 24069,
+      "sha256": "1d17a9ff3537859abe2c008603d29d90cf43191ae77aa386167cc65e53ba03d9"
+    },
+    {
+      "path": "Assets/TutorialInfo/Icons/URP.png.meta",
+      "size": 3156,
+      "sha256": "b330f1fcfc4e6ceccc95fc34a38434141603469b135633e1c4e8a03c19f9fdbc"
+    },
+    {
+      "path": "Assets/TutorialInfo/StyleSheets/ReadmeEditor.uss",
+      "size": 1082,
+      "sha256": "dffaa875912d410a9ec426f47d29179094837e7c98893a6f7067d3f7d1dd93d9"
+    },
+    {
+      "path": "Assets/TutorialInfo/StyleSheets/ReadmeEditor.uss.meta",
+      "size": 305,
+      "sha256": "0b7d3988e424498e61b8ad246996cbdef616dfceeeade3d8ebe974546f13f5ae"
+    },
+    {
+      "path": "Assets/TutorialInfo/StyleSheets/ReadmeEditorDark.uss",
+      "size": 34,
+      "sha256": "55520ccb7ab7e06c25283f608a4391f25c3a62e19f4bd8ee270bb80fb50f3ff8"
+    },
+    {
+      "path": "Assets/TutorialInfo/StyleSheets/ReadmeEditorDark.uss.meta",
+      "size": 305,
+      "sha256": "e42f7f9dda8a158ebe18760e1ad684eb113ef70061a046955db87592610bd8f2"
+    },
+    {
+      "path": "Assets/TutorialInfo/StyleSheets/ReadmeEditorLight.uss",
+      "size": 34,
+      "sha256": "5e9ace1270007dc66b8b1c29063de8d3a6f056485ae116dfa38d2c5519334445"
+    },
+    {
+      "path": "Assets/TutorialInfo/StyleSheets/ReadmeEditorLight.uss.meta",
+      "size": 305,
+      "sha256": "0e4af29f8addccee1c225bd695b280d2e712e59b8801b574481a934f7f78c2ed"
+    },
+    {
+      "path": "Packages/manifest.json",
+      "size": 2005,
+      "sha256": "593b30a9281cd4dc4866087561a6d02ffbc8009ab4b7be64d5e7b6ccb8577381"
+    },
+    {
+      "path": "Packages/packages-lock.json",
+      "size": 13513,
+      "sha256": "c8fb5e2b97b2712ed58ebb3c8298eda64b14bc8f4ee5ca4ef195ce755de1877a"
+    },
+    {
+      "path": "ProjectSettings/AudioManager.asset",
+      "size": 413,
+      "sha256": "aeedeb3243f07b61dbbe854aa08b5ef6f0b5274dd9852ad9f6129dde3e105a31"
+    },
+    {
+      "path": "ProjectSettings/ClusterInputManager.asset",
+      "size": 114,
+      "sha256": "40e65dd214bf254955d2c8829ca8ce2130fd3510485560ce012e9a1ddd93e623"
+    },
+    {
+      "path": "ProjectSettings/DynamicsManager.asset",
+      "size": 1587,
+      "sha256": "bf017b547bb77ce3443dd5287ddf2516a74fd167f4f2ee5d798340694f51776d"
+    },
+    {
+      "path": "ProjectSettings/EditorBuildSettings.asset",
+      "size": 371,
+      "sha256": "8d1712535531522f729d34e843ea20772c01d002227338f8f802f472d7e8d78e"
+    },
+    {
+      "path": "ProjectSettings/EditorSettings.asset",
+      "size": 1647,
+      "sha256": "ca8057940868af3a8247ec063009c883d9f4a8068468ade00169a81bb6d129b0"
+    },
+    {
+      "path": "ProjectSettings/GraphicsSettings.asset",
+      "size": 2498,
+      "sha256": "674353be91a9a32dfa24e4db263f11105ee6c82ff20cc346bc150eb4903b33ff"
+    },
+    {
+      "path": "ProjectSettings/InputManager.asset",
+      "size": 9731,
+      "sha256": "7a1bb836a1008d26d0860d143e9d9df7ca41731d30a72901b518063819c62df2"
+    },
+    {
+      "path": "ProjectSettings/MemorySettings.asset",
+      "size": 1192,
+      "sha256": "1e8379a461b10ae09f3f696911088c16875d63e87ed5f2d95df9e1892703f9fd"
+    },
+    {
+      "path": "ProjectSettings/MultiplayerManager.asset",
+      "size": 157,
+      "sha256": "aba89fd1a1ddad182727ad82727e536d27372e90328a8196da2a4560398983dd"
+    },
+    {
+      "path": "ProjectSettings/NavMeshAreas.asset",
+      "size": 1308,
+      "sha256": "80106cfa7e6181a1928b142c075f3e510d527441e3d79bc83590e4ac91e7cd66"
+    },
+    {
+      "path": "ProjectSettings/PackageManagerSettings.asset",
+      "size": 1157,
+      "sha256": "f281d96e785df430d30ce0a515f4fe5c625ef44467125879f4b9f4cb087e1578"
+    },
+    {
+      "path": "ProjectSettings/Physics2DSettings.asset",
+      "size": 2028,
+      "sha256": "d57a0fe55659c33879e8b70bc01c5ea9cdf082069dab649905c6c5138531e6eb"
+    },
+    {
+      "path": "ProjectSettings/PhysicsCoreProjectSettings2D.asset",
+      "size": 151,
+      "sha256": "bedc5339a832c60dc3f11b84abc4f4384dbfa20b0cd9ad6c444b907e751fc35e"
+    },
+    {
+      "path": "ProjectSettings/PresetManager.asset",
+      "size": 146,
+      "sha256": "29c125923fe6e29f90190d4fce1c82d660e7051546e2c9d02908d18c9cf2436c"
+    },
+    {
+      "path": "ProjectSettings/ProjectAuditorSettings.asset",
+      "size": 1036,
+      "sha256": "9e68444b9bda981e2927a98df9edf69ea88362f0c6b7f3c81b39b9d515d2a416"
+    },
+    {
+      "path": "ProjectSettings/ProjectSettings.asset",
+      "size": 25182,
+      "sha256": "a131bdd3612e2d51f716768bc9f54025f5528c67a8f8ae916c8cc89c7a8be59a"
+    },
+    {
+      "path": "ProjectSettings/ProjectVersion.txt",
+      "size": 83,
+      "sha256": "9207210a75d6f7e920816752a3a9228f1366df762e660fb6c1f8f56ee3af8661"
+    },
+    {
+      "path": "ProjectSettings/QualitySettings.asset",
+      "size": 3826,
+      "sha256": "7fa3e21095b718cecea9e9befeb6d56aced5eca369a1c5844214fc3e1ed7f415"
+    },
+    {
+      "path": "ProjectSettings/SceneTemplateSettings.json",
+      "size": 3535,
+      "sha256": "bb9098b3bfcde78d93e264b96f7b77b5430e64e8c57a7aad7f5a5d9c3945e16a"
+    },
+    {
+      "path": "ProjectSettings/ShaderGraphSettings.asset",
+      "size": 556,
+      "sha256": "cdba1e5d65bcf6e3269d76ed3e60b6c21f98322002996642c9d74f1eb89f6b91"
+    },
+    {
+      "path": "ProjectSettings/Switch2PlayerSettings.asset",
+      "size": 2116,
+      "sha256": "61be6f69426706b633a8f8340a11405ed8f9f8ec1d88b240540d6fd30ab7c26a"
+    },
+    {
+      "path": "ProjectSettings/TagManager.asset",
+      "size": 657,
+      "sha256": "23fc56b484aa3d7edf5914cd3591f7a823ccef5e3f3496f8a51f30388ead63dc"
+    },
+    {
+      "path": "ProjectSettings/TimeManager.asset",
+      "size": 202,
+      "sha256": "1a83e54adbbda7c9f4851103a0c6ab7f6448a3343d4ea5b7620452fa08416ecd"
+    },
+    {
+      "path": "ProjectSettings/UnityConnectSettings.asset",
+      "size": 1191,
+      "sha256": "7f2112b8c6ea0885dcc72b312c9726ffcd909f2e89d1eead61889274a4e5d1c0"
+    },
+    {
+      "path": "ProjectSettings/URPProjectSettings.asset",
+      "size": 411,
+      "sha256": "596d5c8bf4f957b03684c949bebc252ae1918f25415a1147a00684c4b086efda"
+    },
+    {
+      "path": "ProjectSettings/VersionControlSettings.asset",
+      "size": 188,
+      "sha256": "e7bda45bf7a394745fee1316e6c71fa676004d591ad1f3aa247fd3e4ceb86071"
+    },
+    {
+      "path": "ProjectSettings/VFXManager.asset",
+      "size": 308,
+      "sha256": "f066c6483919961332415ee64204f74fe52f38c02e82892eb02b7a5b2e381f0e"
+    },
+    {
+      "path": "ProjectSettings/XRSettings.asset",
+      "size": 158,
+      "sha256": "edd2beb4a2e388312b4b7da241aa51070434005d82c59363f1237dd2e567585f"
+    }
+  ]
+}
