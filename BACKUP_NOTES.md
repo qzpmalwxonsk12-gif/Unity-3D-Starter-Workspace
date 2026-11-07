@@ -1,4 +1,8 @@
-# Source backup
+# Unity-3D-Starter-Workspace
+
+Unity 3D starter workspace, template assets, package manifest, and editor setup scripts.
+
+
 
 Private source snapshot prepared on 2026-11-07. Original local files were not changed.
 
