@@ -2,6 +2,11 @@
   "date": "2026-11-07",
   "files": [
     {
+      "path": ".gitignore",
+      "size": 487,
+      "sha256": "2fc6091f2e242d1548309fe351be55f1b4e9cc2658e6e5496dd9b606642f9342"
+    },
+    {
       "path": ".vsconfig",
       "size": 96,
       "sha256": "f24445f4481f74f7653a375e2f618e50d608b14fdacee794fcab51b8d447351c"
@@ -17,14 +22,19 @@
       "sha256": "0933e0fc18ff6a4086483351865757c8659d850ebe18adb2015b9215e17f3196"
     },
     {
-      "path": "My project.slnx",
-      "size": 125,
-      "sha256": "9893ccd55a72201c1dc024ca613d837577205570ea963b5ca0e0edeb5eb9458f"
-    },
-    {
       "path": "Assets/Editor.meta",
       "size": 172,
       "sha256": "011885d8e7399dd18d6e5dbd08912bc2e0ee35478fb0c715716295320a5a2b3f"
+    },
+    {
+      "path": "Assets/Editor/HubForceResolve.cs",
+      "size": 2310,
+      "sha256": "b76fc3b8ecced6ed2310ae609071ebfec22b1b3e0def3777b2671a11f5593a95"
+    },
+    {
+      "path": "Assets/Editor/HubForceResolve.cs.meta",
+      "size": 59,
+      "sha256": "67339783a57f6956fe64f5f5abba2f2d6f947b242e9791a5f20d61b249e20faf"
     },
     {
       "path": "Assets/InputSystem_Actions.inputactions",
@@ -52,26 +62,6 @@
       "sha256": "92598ef42aeaa7813a50e780bcee1ad6c832b257592d09ffb0e6fb6116bb703f"
     },
     {
-      "path": "Assets/Settings.meta",
-      "size": 172,
-      "sha256": "73c8e19843240273facb0af6bdbf430d719e397aded705629594060ce25ce7ad"
-    },
-    {
-      "path": "Assets/TutorialInfo.meta",
-      "size": 172,
-      "sha256": "07f022e5932c833d026e020b27d73452ebd781993b616d76003494af1e140946"
-    },
-    {
-      "path": "Assets/Editor/HubForceResolve.cs",
-      "size": 2310,
-      "sha256": "b76fc3b8ecced6ed2310ae609071ebfec22b1b3e0def3777b2671a11f5593a95"
-    },
-    {
-      "path": "Assets/Editor/HubForceResolve.cs.meta",
-      "size": 59,
-      "sha256": "67339783a57f6956fe64f5f5abba2f2d6f947b242e9791a5f20d61b249e20faf"
-    },
-    {
       "path": "Assets/Scenes/SampleScene.unity",
       "size": 11413,
       "sha256": "07fce8b04804ddccb3026db5b43d8dc41ba138e49d50d36a5c24877081eacdca"
@@ -80,6 +70,11 @@
       "path": "Assets/Scenes/SampleScene.unity.meta",
       "size": 155,
       "sha256": "b5815a6b12afaf810577bc89041c4ce46516c7cd6609693f8db616f8e5584d80"
+    },
+    {
+      "path": "Assets/Settings.meta",
+      "size": 172,
+      "sha256": "73c8e19843240273facb0af6bdbf430d719e397aded705629594060ce25ce7ad"
     },
     {
       "path": "Assets/Settings/DefaultVolumeProfile.asset",
@@ -92,16 +87,6 @@
       "sha256": "efbcb026cee6b8e32fdf27018c06b0515296a6ccbb43969e792fea270310700a"
     },
     {
-      "path": "Assets/Settings/Mobile_Renderer.asset",
-      "size": 1713,
-      "sha256": "aa93274c9521fa941170becec9e87c5fa36b8587eefd5eeb5c0eed0d1d4b1dbe"
-    },
-    {
-      "path": "Assets/Settings/Mobile_Renderer.asset.meta",
-      "size": 189,
-      "sha256": "a148ee2b4987b05b8ff7ae5f9bf84916184f77aefddc821dceb551f5a69f8179"
-    },
-    {
       "path": "Assets/Settings/Mobile_RPAsset.asset",
       "size": 4709,
       "sha256": "8d551911e1e411b063203e4ee970b4c1bcc209dc561aa7ecfe8824f85c2498f4"
@@ -112,14 +97,14 @@
       "sha256": "53ea46647712c615fd1a3f2e0dddfa8559eeedc649e9a1dbf93ff913de28544c"
     },
     {
-      "path": "Assets/Settings/PC_Renderer.asset",
-      "size": 3439,
-      "sha256": "3d0b01d8ded3327263b6690be128a3de58d17c514943ae42fe743a3e084a9c79"
+      "path": "Assets/Settings/Mobile_Renderer.asset",
+      "size": 1713,
+      "sha256": "aa93274c9521fa941170becec9e87c5fa36b8587eefd5eeb5c0eed0d1d4b1dbe"
     },
     {
-      "path": "Assets/Settings/PC_Renderer.asset.meta",
+      "path": "Assets/Settings/Mobile_Renderer.asset.meta",
       "size": 189,
-      "sha256": "b5df8ddb2708c6ed4c133a5ff9ee95a75cc20e4ee3ed6181366a61aedbaf31ec"
+      "sha256": "a148ee2b4987b05b8ff7ae5f9bf84916184f77aefddc821dceb551f5a69f8179"
     },
     {
       "path": "Assets/Settings/PC_RPAsset.asset",
@@ -130,6 +115,16 @@
       "path": "Assets/Settings/PC_RPAsset.asset.meta",
       "size": 189,
       "sha256": "bb469b9b6f318e9e9bed29c3b2e73e79371c04743c6f95dd6603941f1cd3e53e"
+    },
+    {
+      "path": "Assets/Settings/PC_Renderer.asset",
+      "size": 3439,
+      "sha256": "3d0b01d8ded3327263b6690be128a3de58d17c514943ae42fe743a3e084a9c79"
+    },
+    {
+      "path": "Assets/Settings/PC_Renderer.asset.meta",
+      "size": 189,
+      "sha256": "b5df8ddb2708c6ed4c133a5ff9ee95a75cc20e4ee3ed6181366a61aedbaf31ec"
     },
     {
       "path": "Assets/Settings/SampleSceneProfile.asset",
@@ -152,14 +147,39 @@
       "sha256": "f61661d8bc8dbe531daf09f6211ef978c7ba145c9207c8e76524396ae0722d7c"
     },
     {
+      "path": "Assets/TutorialInfo.meta",
+      "size": 172,
+      "sha256": "07f022e5932c833d026e020b27d73452ebd781993b616d76003494af1e140946"
+    },
+    {
       "path": "Assets/TutorialInfo/Editor.meta",
       "size": 193,
       "sha256": "7036bdbc8af05799b5fd508484343b35c28a68b390198da4673d34357d7d667f"
     },
     {
+      "path": "Assets/TutorialInfo/Editor/ReadmeEditor.cs",
+      "size": 3734,
+      "sha256": "8852033138cc30c44615174738d1b9a0751cd957b05b79fe82fd9c0a392cee0d"
+    },
+    {
+      "path": "Assets/TutorialInfo/Editor/ReadmeEditor.cs.meta",
+      "size": 264,
+      "sha256": "f59080b424c16fa13edd105bf006fdbad98c11fce0c921043e63c8877f144cd9"
+    },
+    {
       "path": "Assets/TutorialInfo/Icons.meta",
       "size": 193,
       "sha256": "546e7d7af6b4d5e17d284c8f1188d05472e681911b8359905ee9b9e20769a106"
+    },
+    {
+      "path": "Assets/TutorialInfo/Icons/URP.png",
+      "size": 24069,
+      "sha256": "1d17a9ff3537859abe2c008603d29d90cf43191ae77aa386167cc65e53ba03d9"
+    },
+    {
+      "path": "Assets/TutorialInfo/Icons/URP.png.meta",
+      "size": 3156,
+      "sha256": "b330f1fcfc4e6ceccc95fc34a38434141603469b135633e1c4e8a03c19f9fdbc"
     },
     {
       "path": "Assets/TutorialInfo/Readme.cs",
@@ -175,26 +195,6 @@
       "path": "Assets/TutorialInfo/StyleSheets.meta",
       "size": 193,
       "sha256": "930d0c8276cea1559a3e315f8500ea6ca8b58d980eee3b44aaa1d461742c47e0"
-    },
-    {
-      "path": "Assets/TutorialInfo/Editor/ReadmeEditor.cs",
-      "size": 3734,
-      "sha256": "8852033138cc30c44615174738d1b9a0751cd957b05b79fe82fd9c0a392cee0d"
-    },
-    {
-      "path": "Assets/TutorialInfo/Editor/ReadmeEditor.cs.meta",
-      "size": 264,
-      "sha256": "f59080b424c16fa13edd105bf006fdbad98c11fce0c921043e63c8877f144cd9"
-    },
-    {
-      "path": "Assets/TutorialInfo/Icons/URP.png",
-      "size": 24069,
-      "sha256": "1d17a9ff3537859abe2c008603d29d90cf43191ae77aa386167cc65e53ba03d9"
-    },
-    {
-      "path": "Assets/TutorialInfo/Icons/URP.png.meta",
-      "size": 3156,
-      "sha256": "b330f1fcfc4e6ceccc95fc34a38434141603469b135633e1c4e8a03c19f9fdbc"
     },
     {
       "path": "Assets/TutorialInfo/StyleSheets/ReadmeEditor.uss",
@@ -225,6 +225,16 @@
       "path": "Assets/TutorialInfo/StyleSheets/ReadmeEditorLight.uss.meta",
       "size": 305,
       "sha256": "0e4af29f8addccee1c225bd695b280d2e712e59b8801b574481a934f7f78c2ed"
+    },
+    {
+      "path": "BACKUP_NOTES.md",
+      "size": 854,
+      "sha256": "7c05bda2c29f29c10bbcbb211dc285083d664f8204b31179ecadbf1f4022d914"
+    },
+    {
+      "path": "My project.slnx",
+      "size": 125,
+      "sha256": "9893ccd55a72201c1dc024ca613d837577205570ea963b5ca0e0edeb5eb9458f"
     },
     {
       "path": "Packages/manifest.json",
@@ -352,19 +362,14 @@
       "sha256": "1a83e54adbbda7c9f4851103a0c6ab7f6448a3343d4ea5b7620452fa08416ecd"
     },
     {
-      "path": "ProjectSettings/UnityConnectSettings.asset",
-      "size": 1191,
-      "sha256": "7f2112b8c6ea0885dcc72b312c9726ffcd909f2e89d1eead61889274a4e5d1c0"
-    },
-    {
       "path": "ProjectSettings/URPProjectSettings.asset",
       "size": 411,
       "sha256": "596d5c8bf4f957b03684c949bebc252ae1918f25415a1147a00684c4b086efda"
     },
     {
-      "path": "ProjectSettings/VersionControlSettings.asset",
-      "size": 188,
-      "sha256": "e7bda45bf7a394745fee1316e6c71fa676004d591ad1f3aa247fd3e4ceb86071"
+      "path": "ProjectSettings/UnityConnectSettings.asset",
+      "size": 1191,
+      "sha256": "7f2112b8c6ea0885dcc72b312c9726ffcd909f2e89d1eead61889274a4e5d1c0"
     },
     {
       "path": "ProjectSettings/VFXManager.asset",
@@ -372,9 +377,21 @@
       "sha256": "f066c6483919961332415ee64204f74fe52f38c02e82892eb02b7a5b2e381f0e"
     },
     {
+      "path": "ProjectSettings/VersionControlSettings.asset",
+      "size": 188,
+      "sha256": "e7bda45bf7a394745fee1316e6c71fa676004d591ad1f3aa247fd3e4ceb86071"
+    },
+    {
       "path": "ProjectSettings/XRSettings.asset",
       "size": 158,
       "sha256": "edd2beb4a2e388312b4b7da241aa51070434005d82c59363f1237dd2e567585f"
+    },
+    {
+      "path": "README.md",
+      "size": 3093,
+      "sha256": "c10662bd388ef52939be4dfd51ac516e0fc1af66b5ea754492185873b5fada7b"
     }
-  ]
+  ],
+  "last_reviewed": "2026-11-07",
+  "manifest_scope": "Current reviewed source snapshot, excluding this manifest itself and untracked generated outputs."
 }

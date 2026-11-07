@@ -13,3 +13,7 @@ This is a current working-file snapshot, not a copy of the original Git history.
 - `Library/`: generated, runtime, dependency, or local data directory
 - `Logs/`: generated, runtime, dependency, or local data directory
 - `UserSettings/`: generated, runtime, dependency, or local data directory
+
+
+## Final source/security review (2026-11-07)
+
